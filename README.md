@@ -1,4 +1,4 @@
 # DEMO
 Learning GIT and GitHub
 <br>
-Author- Sumeet_Shah
+Author- Sumeet Shah
